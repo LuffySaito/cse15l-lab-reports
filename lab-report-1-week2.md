@@ -69,3 +69,5 @@
 ## **Optimizing Remote Running**
 
 - 
+
+![](optimizing_remote.png)
