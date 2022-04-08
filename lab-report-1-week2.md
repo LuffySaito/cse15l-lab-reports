@@ -17,7 +17,14 @@
 
 ## Trying Some Commands ##
 
-- 
+- In the terminal, try running some commands, including:
+    - cd
+    - ls
+    - pwd
+    - mkdir
+    - cp
+
+- Look 
 
 ## Moving Files with `scp` ##
 
