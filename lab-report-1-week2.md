@@ -5,7 +5,7 @@
 
 - When it is installed, it should look something similar to the image below
 
-![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/vscode.png)
+![](vscode.png)
 
 ## Remotely Connecting ##
 
@@ -15,7 +15,7 @@
 
 - enter password and you should see something similar to the image below
 
-![](https://github.com/LuffySaito/cse15l-lab-reports/blob/e4b7144675a7c3ead4d94820f4fb12bfe30c5375/remote_connect.png)
+![](remote_connect.png)
 
 ## Trying Some Commands ##
 
@@ -31,7 +31,7 @@
 
 - Try exploring different commands on both your computer and the remote computer using `ssh`
 
-![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/some_command.png)
+![](some_command.png)
 
 ## Moving Files with `scp` ##
 
@@ -41,11 +41,11 @@
 
 - Then try logging in to the remote computer to see if the file successfully copied
 
-![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/scp.png)
+![](scp.png)
 
 ## Setting an SSH Key ##
 
-- `
+- 
 
 ## Optimizing Remote Running ##
 
