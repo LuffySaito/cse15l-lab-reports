@@ -58,7 +58,13 @@
 
 - Then log in to the remote server and type the command `mkdir .ssh`
 
-- 
+![](ssh-keygen2)
+
+- Back on the client, use the command `$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+
+- log in to the remote server to check if it doesn't ask for password
+
+![](ssh-keygen3)
 
 ## **Optimizing Remote Running**
 
