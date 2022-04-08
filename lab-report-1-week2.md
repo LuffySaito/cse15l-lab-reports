@@ -1,7 +1,7 @@
 
-# **Lab Report 1 - Week 2**
+# **Lab Report 1 - Week 2** #
 
-## **Installing VScode**
+## **Installing VScode** ##
 
 - Go to the Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/) to download and install VScode into your computer
 
@@ -9,7 +9,7 @@
 
 ![](vscode.png)
 
-## **Remotely Connecting**
+## **Remotely Connecting** ##
 
 - First install OpenSSh into your computer (use [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) for help)
 
