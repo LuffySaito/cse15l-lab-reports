@@ -68,6 +68,8 @@
 
 ## **Optimizing Remote Running**
 
-- 
+- To optimize remote running, try running commands in quotes at the end of `ssh`
+
+- In the example below, I ran the WhereAmI.java on the remote computer and check to see if both WhereAmI.java and WhereAmI.class was created
 
 ![](optimizing_remote.png)
