@@ -1,7 +1,7 @@
 
-# Lab Report 1 - Week 2
+# **Lab Report 1 - Week 2**
 
-## Installing VScode
+## **Installing VScode**
 
 - Go to the Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/) to download and install VScode into your computer
 
@@ -9,7 +9,7 @@
 
 ![](vscode.png)
 
-## Remotely Connecting
+## **Remotely Connecting**
 
 - First install OpenSSh into your computer (use [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) for help)
 
@@ -19,7 +19,7 @@
 
 ![](remote_connect.png)
 
-## Trying Some Commands
+## **Trying Some Commands**
 
 
 - In the terminal, try running some commands, including:
@@ -36,7 +36,7 @@
 
 ![](some_command.png)
 
-## Moving Files with `scp`
+## **Moving Files with `scp`**
 
 - Run the command `scp` in the client to copy a file from your computer to the local computer
 
@@ -46,10 +46,20 @@
 
 ![](scp.png)
 
-## Setting an SSH Key
+## **Setting an SSH Key**
+
+- Open the terminal and create public and private keys
+    - For Windows: use the command `ssh-keygen -t ed25519`
+    - For non-Windows: use the command `ssh-keygen`
+
+- Keep pressing enter until you see something similar to below image
+
+![](ssh-keygen1)
+
+- Then log in to the remote server and type the command `mkdir .ssh`
 
 - 
 
-## Optimizing Remote Running
+## **Optimizing Remote Running**
 
 - 
