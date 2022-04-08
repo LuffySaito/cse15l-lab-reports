@@ -3,7 +3,9 @@
 
 - Go to the Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/) to download and install VScode into your computer
 
+- When it is installed, it should look something similar to the image below
 
+![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/vscode.png)
 
 ## Remotely Connecting ##
 
@@ -18,21 +20,32 @@
 ## Trying Some Commands ##
 
 - In the terminal, try running some commands, including:
-    - cd
-    - ls
-    - pwd
-    - mkdir
-    - cp
+    - `ls` : list files
+    - `pwd` : print working directory 
+    - `mkdir` : make directory
+    - `cd` : change directory
+    - `cp` : copy
+    - `rm` : remove
+    - `touch` : creat a file
+    - `cat` : view or create a file
 
-- Look 
+- Try exploring different commands on both your computer and the remote computer using `ssh`
+
+![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/some_command.png)
 
 ## Moving Files with `scp` ##
 
-- 
+- Run the command `scp` in the client to copy a file from your computer to the local computer
+
+- In the terminal run the command `scp (file name) cs15lsp22zz@ieng6.ucsd.edu:~/`
+
+- Then try logging in to the remote computer to see if the file successfully copied
+
+![](https://github.com/LuffySaito/cse15l-lab-reports/blob/5956297647c4e1e12c18004d4ed38914bd02eb39/scp.png)
 
 ## Setting an SSH Key ##
 
-- 
+- `
 
 ## Optimizing Remote Running ##
 
