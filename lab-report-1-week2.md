@@ -1,4 +1,6 @@
 
+# Week 2 Lab Report #
+
 ## Installing VScode ##
 
 - Go to the Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/) to download and install VScode into your computer
