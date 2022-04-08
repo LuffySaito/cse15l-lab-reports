@@ -1,7 +1,7 @@
 
-# **Lab Report 1 - Week 2** #
+# **Lab Report 1 - Week 2**
 
-## **Installing VScode** ##
+## **Installing VScode** 
 
 - Go to the Visual Studio Code website [https://code.visualstudio.com/](https://code.visualstudio.com/) to download and install VScode into your computer
 
@@ -9,7 +9,7 @@
 
 ![](vscode.png)
 
-## **Remotely Connecting** ##
+## **Remotely Connecting** 
 
 - First install OpenSSh into your computer (use [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) for help)
 
@@ -32,7 +32,7 @@
     - `touch` : creat a file
     - `cat` : view or create a file
 
-- Try exploring different commands on both your computer and the remote computer using `ssh`
+- Try exploring different commands on both *your* computer and the *remote* computer using `ssh`
 
 ![](some_command.png)
 
@@ -52,7 +52,7 @@
     - For Windows: use the command `ssh-keygen -t ed25519`
     - For non-Windows: use the command `ssh-keygen`
 
-- Keep pressing enter until you see something similar to below image
+- Keep pressing the **Enter** key until you see something similar to below image
 
 ![](ssh-keygen1.png)
 
