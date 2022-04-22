@@ -38,4 +38,4 @@ The failure inducing input was the file which contained only brackets and no par
 **Error:**
 ![](error3.png)
 
-The failure inducing input was the file which contained brackets and only the open parenthesis. This caused the program to continue searching for the close parenthesis without termination, the bug of the program. As a result, the program threw a OutOfMemoryError, which was the symptom.
+The failure inducing input was the file which ended with the open bracket. This caused the program to continue searching for the close bracket without termination, the bug of the program. As a result, the program threw a OutOfMemoryError, which was the symptom.
