@@ -43,4 +43,4 @@ Test successfully runs on the server.
 
 Combining `scp`, `ssh`, and the run commmands, I am able to copy the directory, log in to the server, and run the test on the server in one line.
 
-![]()
+![](multiple_commands.png)
