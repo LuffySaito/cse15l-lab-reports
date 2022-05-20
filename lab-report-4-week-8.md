@@ -11,6 +11,7 @@ Expected Output: [`google.com]
 ![](snippet1_my_test.png)
 
 Test failed:
+
 ![](my_snippet1_fail.png)
 
 
@@ -21,6 +22,7 @@ Expected Output: [a.com, a.com(()), example.com]
 ![](snippet2_my_test.png)
 
 Test failed:
+
 ![](my_snippet2_fail.png)
 
 ### **Snippet 3** ##
@@ -30,6 +32,7 @@ Expected Output: [https://www.twitter.com, https://cse.ucsd.edu/]
 ![](snippet3_my_test.png)
 
 Test failed:
+
 ![](my_snippet3_fail.png)
 
 ## **Implementation Reviewed in Week 7**
@@ -43,6 +46,7 @@ Expected Output: [`google.com]
 ![](snippet1_review_test.png)
 
 Test failed:
+
 ![](review_snippet1_fail.png)
 
 ### **Snippet 2** ##
@@ -52,6 +56,7 @@ Expected Output: [a.com, a.com(()), example.com]
 ![](snippet2_review_test.png)
 
 Test failed:
+
 ![](review_snippet2_fail.png)
 
 ### **Snippet 3** ##
@@ -61,6 +66,7 @@ Expected Output: [https://www.twitter.com, https://cse.ucsd.edu/]
 ![](snippet3_review_test.png)
 
 Test failed:
+
 ![](review_snippet3_fail.png)
 
 ## **Questions**
