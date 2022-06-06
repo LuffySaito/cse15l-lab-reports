@@ -12,6 +12,8 @@ Link to the two test files:
 
 Expected Output: [foo(and(bar)]
 
+Actual Output(left: my implementation; right: provided implementation):
+
 ![](test-file-496.png)
 
 Neither implementation are correct because my program recognized “foo(and(bar” as a link whereas the given program returned an empty string. 
@@ -23,6 +25,8 @@ Since the provided implementation returns an empty string as an output, it proba
 ### **Test-file-497** ##
 
 Expected Output: [foo\\(and\\(bar\\)]
+
+Actual Output(left: my implementation; right: provided implementation):
 
 ![](test-file-497.png)
 
