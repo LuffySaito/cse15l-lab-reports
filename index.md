@@ -1,9 +1,17 @@
-# Hello World!
+# **Lab Reports**
 
-How are you doing?
+### **Lab Report 1**
+[lab-report-1](https://luffysaito.github.io/cse15l-lab-reports/lab-report-1-week2)
 
-I'm doing *great*.
+### **Lab Report 2**
+[lab-report-2](https://luffysaito.github.io/cse15l-lab-reports/lab-report-2-week4)
 
-It's over 30 degrees celcius today!
+### **Lab Report 3**
+[lab-report-3](https://luffysaito.github.io/cse15l-lab-reports/lab-report-3-week-6)
 
-**It's so hot!!**
+### **Lab Report 4**
+[lab-report-4](https://luffysaito.github.io/cse15l-lab-reports/lab-report-4-week-8)
+
+### **Lab Report 5**
+
+[lab-report-5](https://luffysaito.github.io/cse15l-lab-reports/lab-report-5-week10)
